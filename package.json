@@ -1,0 +1,15 @@
+{
+  "name": "ai-brain-gennerator",
+  "version": "1.0.0",
+  "description": "محرك ومبرمج الذكاء اصطناعي المتطور لمنصة الاستضافة",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative": "^0.21.0",
+    "express": "^4.19.2"
+  },
+  "author": "AI Expert",
+  "license": "ISC"
+}
